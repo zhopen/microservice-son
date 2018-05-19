@@ -10,7 +10,7 @@ public class SonController {
     @RequestMapping("/where")
     public String where(){
         String where = ManagementFactory.getRuntimeMXBean().getName();
-        return " I am son at " + where; //System.getenv("HOSTNAME");
+        return "I am at " + where;
     }
 }
 
