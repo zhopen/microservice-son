@@ -1,4 +1,4 @@
-package com.example.son;
+package com.hpe.son;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.example.son;
+package com.hpe.son;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
